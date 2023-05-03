@@ -6,3 +6,4 @@ whoami
 pwd
 du -h
 free -g
+echo  "bye"
